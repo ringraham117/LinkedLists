@@ -1,2 +1,2 @@
-# Message-Decoder
-This program will find the number of ways that an encoded message can be decoded.
+# Reversing a linked list
+This program will accept the head node of a linked list and then display the elements in reverse order. 
